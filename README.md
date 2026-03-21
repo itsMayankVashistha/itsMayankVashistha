@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mayank
 
-<!--
-**itsMayankVashistha/itsMayankVashistha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am transitioning from theoretical physics into data science, machine learning, and AI.
 
-Here are some ideas to get you started:
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsMayankVashistha&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMayankVashistha&layout=compact)
+
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsMayankVashistha&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMayankVashistha&layout=compact&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsMayankVashistha&repo=capstone_project)](https://github.com/itsMayankVashistha/capstone_project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsMayankVashistha&repo=agentic-rag-assistant)](https://github.com/itsMayankVashistha/agentic-rag-assistant)
