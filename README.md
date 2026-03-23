@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Mayank Vashistha 👋<br><br>I am a PhD researcher in theoretical atomic and molecular physics at DESY Hamburg, currently transitioning into Data Science, Machine Learning, and AI Engineering.<br><br>My background is in scientific computing, numerical simulations, and data analysis, and I am now focusing on building real-world machine learning and AI applications using Python, SQL, scikit-learn, and modern LLM frameworks.<br><br>I am currently completing a Data Science & AI bootcamp, where I am working on projects involving time-series prediction, anomaly detection, and retrieval-augmented generation (RAG) systems.<br><br>I enjoy building end-to-end projects that include data pipelines, model training, APIs, and interactive dashboards.<br><br>Currently interested in:<br>- Machine Learning<br>- Data Science<br>- AI Engineering / LLM applications<br>- Backend + ML systems<br>- Real-world data products<br><br>Open to opportunities in Germany / EU.
 
 
